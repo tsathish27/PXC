@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PXC_landingpage/static/css/main.538e2582.css",
+    "main.js": "/PXC_landingpage/static/js/main.518dd3f4.js",
+    "index.html": "/PXC_landingpage/index.html",
+    "main.538e2582.css.map": "/PXC_landingpage/static/css/main.538e2582.css.map",
+    "main.518dd3f4.js.map": "/PXC_landingpage/static/js/main.518dd3f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.538e2582.css",
+    "static/js/main.518dd3f4.js"
+  ]
+}
