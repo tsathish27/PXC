@@ -370,7 +370,7 @@ const HomePage = () => (
           <img src="/images/event1.jpg" alt="Music Festival" className="w-full h-48 object-cover" />
           <div className="p-4">
             <h3 className="text-lg font-bold">Music Festival</h3>
-            <p className="text-muted-foreground">July 15, 2023</p>
+            <p className="text-muted-foreground">August 15, 2024</p>
             <div className="flex items-center justify-between mt-2">
               <span className="text-primary font-medium">$50</span>
               <Button size="sm">Buy Tickets</Button>
@@ -381,7 +381,7 @@ const HomePage = () => (
           <img src="/images/event2.jpg" alt="Comedy Show" className="w-full h-48 object-cover" />
           <div className="p-4">
             <h3 className="text-lg font-bold">Comedy Show</h3>
-            <p className="text-muted-foreground">August 20, 2023</p>
+            <p className="text-muted-foreground">August 20, 2024</p>
             <div className="flex items-center justify-between mt-2">
               <span className="text-primary font-medium">$30</span>
               <Button size="sm">Buy Tickets</Button>
@@ -392,7 +392,7 @@ const HomePage = () => (
           <img src="/images/art.jpg" alt="Art Exhibition" className="w-full h-48 object-cover" />
           <div className="p-4">
             <h3 className="text-lg font-bold">Art Exhibition</h3>
-            <p className="text-muted-foreground">September 5, 2023</p>
+            <p className="text-muted-foreground">September 5, 2024</p>
             <div className="flex items-center justify-between mt-2">
               <span className="text-primary font-medium">$20</span>
               <Button size="sm">Buy Tickets</Button>
@@ -403,7 +403,7 @@ const HomePage = () => (
           <img src="/images/food.webp" alt="Food Festival" className="w-full h-48 object-cover" />
           <div className="p-4">
             <h3 className="text-lg font-bold">Food Festival</h3>
-            <p className="text-muted-foreground">October 12, 2023</p>
+            <p className="text-muted-foreground">October 12, 2024</p>
             <div className="flex items-center justify-between mt-2">
               <span className="text-primary font-medium">$15</span>
               <Button size="sm">Buy Tickets</Button>
