@@ -1,4 +1,4 @@
-PassXchange
+
 PassXchange is an innovative platform for buying and selling tickets for movies, events, and travel. Whether you have an extra ticket or need one for a sold-out show, PassXchange makes ticket trading easy, secure, and fast.
 
 Features
