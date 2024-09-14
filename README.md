@@ -1,4 +1,4 @@
-# passXchange
+# PXC - passXchange 
 
 
 PassXchange is an innovative platform for buying and selling movie, event, and travel tickets. Whether you have an extra ticket or need one for a sold-out show, PassXchange makes ticket trading easy, secure, and fast.
