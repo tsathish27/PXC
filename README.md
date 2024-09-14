@@ -1,7 +1,9 @@
 # passXchange
 
 
-PassXchange is an innovative platform for buying and selling tickets for movies, events, and travel. Whether you have an extra ticket or need one for a sold-out show, PassXchange makes ticket trading easy, secure, and fast.
+PassXchange is an innovative platform for buying and selling movie, event, and travel tickets. Whether you have an extra ticket or need one for a sold-out show, PassXchange makes ticket trading easy, secure, and fast.
+
+- Together with my three friends, we're turning our innovative idea into a reality, one line of code at a time.
 
 ## Features
 
@@ -33,8 +35,10 @@ Available on the web, Android, and iOS.
 **Payment Gateway:** Stripe API for secure payments
  
 
-## Current Status
+## Project Status
 
-The project is currently in development. The web application is being built using React.js, while the mobile apps are developed using React Native for Android and iOS platforms. Blockchain technology is being integrated to enable secure, transparent transactions with NFT-based ticketing.
+PassXchange is currently in active development. The web app is being developed using React.js, while the mobile apps are built with React Native. Integration with Ethereum blockchain for NFT-based ticketing ensures secure and transparent transactions.
 
-[website] link: https://passxchange.netlify.app
+Stay tuned for upcoming releases!
+
+Visit the website:  https://passxchange.netlify.app
